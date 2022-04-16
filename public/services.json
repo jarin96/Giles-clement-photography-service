@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Home Event Photography Package",
+        "cost": 150,
+        "description": "1 Senior Photographer, Package duration: 5 Hours, No. of photos: Unlimited, Prints: 4R (4”x6”): 100 copies, Edited photos will be delivered in a DVD.",
+        "img": "https://i.ibb.co/nbVSxf5/home-event.png"
+    },
+    {
+        "id": 2,
+        "name": "Portrait Photography Package",
+        "cost": 190,
+        "description": "1 Senior Photographer, Package duration: 5 Hours, No. of photos: Unlimited, Prints: 4R (4”x6”): 100 copies, Edited photos will be delivered in a DVD.",
+        "img": "https://i.ibb.co/PZpT44j/portrait.png"
+    },
+    {
+        "id": 3,
+        "name": "Pre / Post Wedding Photography Packages",
+        "cost": 250,
+        "description": "Photographer: Core Photographer, Duration: 6 hours, 12L Matte Print: 1 Copy,4R Matte Print: 100 ,Full HD video: 20-30 mins",
+        "img": "https://i.ibb.co/Csdp7Bb/wedding.png"
+    },
+    {
+        "id": 4,
+        "name": "Beauty and Fashion Photography Packages",
+        "cost": 220,
+        "description": "1 Senior Photographer, Package duration: 5 Hours, Full HD Cinematography, No. of Cameras: 1, Trailer: 3 to 5 minutes",
+        "img": "https://i.ibb.co/k4CWYGw/fashion.png"
+    },
+    {
+        "id": 5,
+        "name": "Family / Baby Photo Photography Packages",
+        "cost": 180,
+        "description": "1 Senior Photographer, Package duration: 5 Hours, No. of photos: Unlimited, 4R (4x6”) Matte Prints: 80 copies, Edited photos will be delivered in a DVD.",
+        "img": "https://i.ibb.co/RhGkFH7/baby.png"
+    },
+    {
+        "id": 6,
+        "name": "Combo Photography Packages",
+        "cost": 210,
+        "description": "1 Senior Photographer, Package duration: 5 Hours, No. of photos: Unlimited, Prints: 4R (4”x6”): 100 copies, Edited photos will be delivered in a DVD.",
+        "img": "https://i.ibb.co/r0Sr4cR/combo-event.png"
+    }
+]
