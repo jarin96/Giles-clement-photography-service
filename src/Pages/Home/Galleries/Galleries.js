@@ -18,7 +18,7 @@ const photos = [
 ]
 const Galleries = () => {
     return (
-        <div className='container'>
+        <div id='galleries' className='container'>
             <h2 className='text-center mt-5'>Galleries</h2>
             <div className="row">
                 {

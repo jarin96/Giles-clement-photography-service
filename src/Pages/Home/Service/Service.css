@@ -3,15 +3,12 @@
     border-radius: 10px;
     padding-bottom: 10px;
     text-align: center;
+    position: relative;
 }
 
 .service-images {
     width: 345px;
-    height: 300px;
-}
-
-.btn-color {
-    border: none;
+    margin-top: 4px;
     border-radius: 8px;
-    color: blueviolet;
+    height: 300px;
 }
