@@ -8,7 +8,7 @@ const Footer = () => {
     return (
         <footer className='py-5 bg-dark'>
             <div className='container-fluid'>
-                <p className='m-0 text-center text-white'>
+                <p className='mt-5 text-center text-white'>
                     <small>copyright &copy; {getYear()} </small>
                 </p>
             </div>

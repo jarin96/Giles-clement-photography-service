@@ -1,11 +1,17 @@
 .service {
     border: 1px solid lightgray;
-    border-radius: 15px;
+    border-radius: 10px;
     padding-bottom: 10px;
     text-align: center;
 }
 
 .service-images {
-    width: 300px;
+    width: 345px;
     height: 300px;
+}
+
+.btn-color {
+    border: none;
+    border-radius: 8px;
+    color: blueviolet;
 }

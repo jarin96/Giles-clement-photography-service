@@ -19,7 +19,7 @@ const photos = [
 const Galleries = () => {
     return (
         <div className='container'>
-            <h2 className='text-center'>Galleries</h2>
+            <h2 className='text-center mt-5'>Galleries</h2>
             <div className="row">
                 {
                     photos.map(photo => <Gallery

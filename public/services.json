@@ -15,21 +15,21 @@
     },
     {
         "id": 3,
-        "name": "Pre / Post Wedding Photography Packages",
+        "name": "Wedding Photography Package",
         "cost": 250,
         "description": "Photographer: Core Photographer, Duration: 6 hours, 12L Matte Print: 1 Copy,4R Matte Print: 100 ,Full HD video: 20-30 mins",
         "img": "https://i.ibb.co/Csdp7Bb/wedding.png"
     },
     {
         "id": 4,
-        "name": "Beauty and Fashion Photography Packages",
+        "name": "Fashion Photography Packages",
         "cost": 220,
         "description": "1 Senior Photographer, Package duration: 5 Hours, Full HD Cinematography, No. of Cameras: 1, Trailer: 3 to 5 minutes",
         "img": "https://i.ibb.co/k4CWYGw/fashion.png"
     },
     {
         "id": 5,
-        "name": "Family / Baby Photo Photography Packages",
+        "name": "Baby Photography Packages",
         "cost": 180,
         "description": "1 Senior Photographer, Package duration: 5 Hours, No. of photos: Unlimited, 4R (4x6”) Matte Prints: 80 copies, Edited photos will be delivered in a DVD.",
         "img": "https://i.ibb.co/RhGkFH7/baby.png"
