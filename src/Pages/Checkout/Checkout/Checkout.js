@@ -1,3 +1,5 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faMoneyCheckDollar } from '@fortawesome/free-solid-svg-icons'
 import React, { useRef } from 'react';
 import { Form, Button } from 'react-bootstrap';
 import { ToastContainer, toast } from 'react-toastify';
@@ -9,7 +11,7 @@ const Checkout = () => {
         event.preventDefault();
         const email = emailRef.current.value;
         if (email) {
-            toast('Your booking is completed');
+            toast('Thank you for the booking 🎁');
         }
         else {
             toast('Please enter your email address');
@@ -36,7 +38,7 @@ const Checkout = () => {
                     <Form.Control type="password" placeholder="Password" required />
                 </Form.Group>
                 <Button variant="btn btn-dark w-50 mx-auto d-block mb-2" type="submit">
-                    Checkout
+                    Checkout <FontAwesomeIcon className='ms-2' icon={faMoneyCheckDollar}></FontAwesomeIcon>
                 </Button>
             </Form>
             <ToastContainer></ToastContainer>

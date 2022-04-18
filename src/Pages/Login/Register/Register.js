@@ -30,8 +30,8 @@ const Register = () => {
         return <Loading></Loading>
     }
     let errorElement;
-    if (error) {
-        errorElement = <p className='text-danger'>Error: {error?.message}</p>
+    if (error || UpdateError) {
+        errorElement = <p className='text-danger'>Error: {error?.message} {UpdateError?.message}</p>
     }
     const handleRegister = async (event) => {
         event.preventDefault();
