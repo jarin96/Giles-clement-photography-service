@@ -2,7 +2,7 @@ import React from 'react';
 import profile from '../../../images/Profile/IMG_4510.jpeg';
 const Profile = () => {
     return (
-        <div className='container info-background my-5'>
+        <div id='profile' className='container info-background my-5'>
             <div className='row border p-5 rounded bg-gradient d-flex justify-content-center align-items-center'>
                 <div className='col-lg-5 col-md-6 col-12'>
                     <img src={profile}
