@@ -1,13 +1,13 @@
 # GILES CLEMENT PHOTOGRAPHY
-# [Live Website of GILES CLEMENT PHOTOGRAPHY]()
+# [Live Website of GILES CLEMENT PHOTOGRAPHY](https://giles-clement-photography.web.app/)
 This project was create with simple bootstrap and vanilla css
 
 * Users can see most important Services and Services information in the home page. 
 * Users can see banner, galleries and profile in the home page.
 * Users can view different question and answer from BLogs page.
-* From About us menu, user can know about me, and my career goal.
-* Users can Login from the Login page and also can register from the register page if he/she is new to the website.Users will also get email verification message if the registration is completed.Users can also reset their password if they had forget it. 
-* List of technologies (frameworks, libraries) used in my projects: React Router, React Firebase Hooks, Firebase,Firebase-Authentication, React-Bootstrap, React, React-Toastify.
+* From About menu, user can know about me, and my career goal.
+* Users can Login from the Login page and also can register from the register page if he/she is new to the website.Users will also get email verification message if the registration is completed.Users can also reset their password if they had forget the Password. 
+* List of technologies (frameworks, libraries) used in my projects: React Router, React Firebase Hooks,React Router Hooks, Firebase,Firebase-Authentication, React-Bootstrap, React, React-Toastify.
 
 # Getting Started with Create React App
 

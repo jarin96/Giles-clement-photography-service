@@ -6,7 +6,7 @@ const Profile = () => {
             <div className='row border p-5 rounded bg-gradient d-flex justify-content-center align-items-center'>
                 <div className='col-lg-5 col-md-6 col-12'>
                     <img src={profile}
-                        class="d-block w-100 " alt=""></img>
+                        className="d-block w-100 " alt=""></img>
                 </div>
                 <div className='col-lg-7 col-md-6 col-12'>
                     <div className=' my-5 py-3'>
